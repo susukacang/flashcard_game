@@ -1,2 +1,6 @@
 *.pyc
 __pycache__
+env
+app.py
+flask_app2.py
+.vscode
